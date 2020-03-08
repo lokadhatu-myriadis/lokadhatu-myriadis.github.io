@@ -24,28 +24,6 @@
   </url>
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/reading_notes/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu-myriadis.github.io/reading_notes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://lokadhatu-myriadis.github.io/de/reading_notes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lokadhatu-myriadis.github.io/zh/reading_notes/"
-                />
-  </url>
-  
-  <url>
     <loc>https://lokadhatu-myriadis.github.io/zh/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -64,6 +42,28 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://lokadhatu-myriadis.github.io/zh/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu-myriadis.github.io/zh/reading_notes/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lokadhatu-myriadis.github.io/reading_notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lokadhatu-myriadis.github.io/de/reading_notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lokadhatu-myriadis.github.io/zh/reading_notes/"
                 />
   </url>
   
