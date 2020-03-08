@@ -6,9 +6,28 @@
     <description>Recent content in Tags on 萬千世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Nov 2018 23:40:11 +0100</lastBuildDate>
     
 	<atom:link href="https://lokadhatu-myriadis.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>中國</title>
+      <link>https://lokadhatu-myriadis.github.io/zh/tags/%E4%B8%AD%E5%9C%8B/</link>
+      <pubDate>Sun, 11 Nov 2018 23:40:11 +0100</pubDate>
+      
+      <guid>https://lokadhatu-myriadis.github.io/zh/tags/%E4%B8%AD%E5%9C%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>戰爭</title>
+      <link>https://lokadhatu-myriadis.github.io/zh/tags/%E6%88%B0%E7%88%AD/</link>
+      <pubDate>Sun, 11 Nov 2018 23:40:11 +0100</pubDate>
+      
+      <guid>https://lokadhatu-myriadis.github.io/zh/tags/%E6%88%B0%E7%88%AD/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

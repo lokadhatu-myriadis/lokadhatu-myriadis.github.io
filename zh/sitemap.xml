@@ -111,7 +111,43 @@
   </url>
   
   <url>
+    <loc>https://lokadhatu-myriadis.github.io/zh/tags/</loc>
+    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lokadhatu-myriadis.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lokadhatu-myriadis.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lokadhatu-myriadis.github.io/zh/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://lokadhatu-myriadis.github.io/zh/posts/2018-11-12_%E4%B8%80%E6%88%B0%E8%BD%89%E5%AF%AB/</loc>
+    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu-myriadis.github.io/zh/tags/%E4%B8%AD%E5%9C%8B/</loc>
+    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu-myriadis.github.io/zh/tags/%E6%88%B0%E7%88%AD/</loc>
     <lastmod>2018-11-11T23:40:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -157,27 +193,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://lokadhatu-myriadis.github.io/zh/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu-myriadis.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://lokadhatu-myriadis.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lokadhatu-myriadis.github.io/zh/tags/"
                 />
   </url>
   
