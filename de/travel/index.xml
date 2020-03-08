@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reise on Lokadhatu Myriadis</title>
+    <link>https://lokadhatu-myriadis.github.io/de/travel/</link>
+    <description>Recent content in Reise on Lokadhatu Myriadis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://lokadhatu-myriadis.github.io/de/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
