@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>遊記 on 萬千世界</title>
-    <link>https://lokadhatu-myriadis.github.io/zh/travel/</link>
+    <link>https://lokadhatu.com/zh/travel/</link>
     <description>Recent content in 遊記 on 萬千世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://lokadhatu-myriadis.github.io/zh/travel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lokadhatu.com/zh/travel/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

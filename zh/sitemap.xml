@@ -3,231 +3,231 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/about/</loc>
+    <loc>https://lokadhatu.com/zh/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokadhatu-myriadis.github.io/about/"
+                href="https://lokadhatu.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lokadhatu-myriadis.github.io/de/about/"
+                href="https://lokadhatu.com/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lokadhatu-myriadis.github.io/zh/about/"
+                href="https://lokadhatu.com/zh/about/"
                 />
   </url>
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/posts/</loc>
+    <loc>https://lokadhatu.com/zh/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokadhatu-myriadis.github.io/posts/"
+                href="https://lokadhatu.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lokadhatu-myriadis.github.io/de/posts/"
+                href="https://lokadhatu.com/de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lokadhatu-myriadis.github.io/zh/posts/"
+                href="https://lokadhatu.com/zh/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/reading_notes/</loc>
+    <loc>https://lokadhatu.com/zh/reading_notes/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokadhatu-myriadis.github.io/reading_notes/"
+                href="https://lokadhatu.com/reading_notes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lokadhatu-myriadis.github.io/de/reading_notes/"
+                href="https://lokadhatu.com/de/reading_notes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lokadhatu-myriadis.github.io/zh/reading_notes/"
+                href="https://lokadhatu.com/zh/reading_notes/"
                 />
   </url>
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/travel/</loc>
+    <loc>https://lokadhatu.com/zh/travel/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokadhatu-myriadis.github.io/travel/"
+                href="https://lokadhatu.com/travel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lokadhatu-myriadis.github.io/de/travel/"
+                href="https://lokadhatu.com/de/travel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lokadhatu-myriadis.github.io/zh/travel/"
+                href="https://lokadhatu.com/zh/travel/"
                 />
   </url>
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/contact/</loc>
+    <loc>https://lokadhatu.com/zh/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokadhatu-myriadis.github.io/contact/"
+                href="https://lokadhatu.com/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lokadhatu-myriadis.github.io/de/contact/"
+                href="https://lokadhatu.com/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lokadhatu-myriadis.github.io/zh/contact/"
+                href="https://lokadhatu.com/zh/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/tags/</loc>
-    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu-myriadis.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://lokadhatu-myriadis.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lokadhatu-myriadis.github.io/zh/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/posts/2018-11-12_%E4%B8%80%E6%88%B0%E8%BD%89%E5%AF%AB/</loc>
-    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/tags/%E4%B8%AD%E5%9C%8B/</loc>
-    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/tags/%E6%88%B0%E7%88%AD/</loc>
-    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/</loc>
+    <loc>https://lokadhatu.com/zh/tags/</loc>
     <lastmod>2018-11-11T23:40:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokadhatu-myriadis.github.io/"
+                href="https://lokadhatu.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lokadhatu-myriadis.github.io/de/"
+                href="https://lokadhatu.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lokadhatu-myriadis.github.io/zh/"
+                href="https://lokadhatu.com/zh/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/tags/%E5%83%B9%E5%80%BC%E8%A7%80/</loc>
-    <lastmod>2016-09-16T16:26:46+01:00</lastmod>
+    <loc>https://lokadhatu.com/zh/posts/2018-11-12_%E4%B8%80%E6%88%B0%E8%BD%89%E5%AF%AB/</loc>
+    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/tags/%E6%8A%80%E8%A1%93/</loc>
-    <lastmod>2016-09-16T16:26:46+01:00</lastmod>
+    <loc>https://lokadhatu.com/zh/tags/%E4%B8%AD%E5%9C%8B/</loc>
+    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/tags/%E7%B6%93%E6%BF%9F%E5%AD%B8/</loc>
-    <lastmod>2016-09-16T16:26:46+01:00</lastmod>
+    <loc>https://lokadhatu.com/zh/tags/%E6%88%B0%E7%88%AD/</loc>
+    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/posts/2016-09-16_%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%9C%88%E9%A4%85%E4%BA%8B%E4%BB%B6/</loc>
-    <lastmod>2016-09-16T16:26:46+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/tags/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/</loc>
-    <lastmod>2016-09-16T16:26:46+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu-myriadis.github.io/zh/categories/</loc>
+    <loc>https://lokadhatu.com/zh/</loc>
+    <lastmod>2018-11-11T23:40:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokadhatu-myriadis.github.io/categories/"
+                href="https://lokadhatu.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lokadhatu-myriadis.github.io/de/categories/"
+                href="https://lokadhatu.com/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lokadhatu-myriadis.github.io/zh/categories/"
+                href="https://lokadhatu.com/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu.com/zh/tags/%E5%83%B9%E5%80%BC%E8%A7%80/</loc>
+    <lastmod>2016-09-16T16:26:46+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu.com/zh/tags/%E6%8A%80%E8%A1%93/</loc>
+    <lastmod>2016-09-16T16:26:46+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu.com/zh/tags/%E7%B6%93%E6%BF%9F%E5%AD%B8/</loc>
+    <lastmod>2016-09-16T16:26:46+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu.com/zh/posts/2016-09-16_%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%9C%88%E9%A4%85%E4%BA%8B%E4%BB%B6/</loc>
+    <lastmod>2016-09-16T16:26:46+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu.com/zh/tags/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/</loc>
+    <lastmod>2016-09-16T16:26:46+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu.com/zh/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lokadhatu.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lokadhatu.com/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lokadhatu.com/zh/categories/"
                 />
   </url>
   

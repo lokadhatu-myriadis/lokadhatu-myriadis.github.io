@@ -2,14 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Review on Lokadhatu Myriadis</title>
-    <link>https://lokadhatu-myriadis.github.io/reading_notes/</link>
+    <link>https://lokadhatu.com/reading_notes/</link>
     <description>Recent content in Review on Lokadhatu Myriadis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://lokadhatu-myriadis.github.io/reading_notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lokadhatu.com/reading_notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Build a Multilingual Hugo-based Website</title>
+      <link>https://lokadhatu.com/reading_notes/my-first-post/</link>
+      <pubDate>Sat, 07 Mar 2020 13:57:56 +0100</pubDate>
+      
+      <guid>https://lokadhatu.com/reading_notes/my-first-post/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
