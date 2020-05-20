@@ -6,7 +6,7 @@
     <description>Recent content on Lokadhatu Myriadis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2020 13:57:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://lokadhatu.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,24 +19,6 @@
       <guid>https://lokadhatu.com/contact/</guid>
       <description>Feel free to email me.
 Your Name Email Address An email address is required.  Message   </description>
-    </item>
-    
-    <item>
-      <title>How to Build a Multilingual Hugo-based Website</title>
-      <link>https://lokadhatu.com/posts/my-first-post/</link>
-      <pubDate>Sat, 07 Mar 2020 13:57:56 +0100</pubDate>
-      
-      <guid>https://lokadhatu.com/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to Build a Multilingual Hugo-based Website</title>
-      <link>https://lokadhatu.com/reading_notes/my-first-post/</link>
-      <pubDate>Sat, 07 Mar 2020 13:57:56 +0100</pubDate>
-      
-      <guid>https://lokadhatu.com/reading_notes/my-first-post/</guid>
-      <description></description>
     </item>
     
     <item>
