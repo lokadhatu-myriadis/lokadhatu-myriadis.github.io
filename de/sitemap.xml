@@ -111,8 +111,29 @@
   </url>
   
   <url>
+    <loc>https://lokadhatu.com/de/posts/2020-03-17_investment_vocabulary/</loc>
+    <lastmod>2020-03-17T13:16:30+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu.com/de/tags/finanz/</loc>
+    <lastmod>2020-03-17T13:16:30+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu.com/de/tags/geldanlage/</loc>
+    <lastmod>2020-03-17T13:16:30+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://lokadhatu.com/de/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <lastmod>2020-03-17T13:16:30+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -129,6 +150,28 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://lokadhatu.com/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lokadhatu.com/de/tags/</loc>
+    <lastmod>2020-03-17T13:16:30+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lokadhatu.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lokadhatu.com/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lokadhatu.com/de/tags/"
                 />
   </url>
   
@@ -150,27 +193,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://lokadhatu.com/de/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/de/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lokadhatu.com/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://lokadhatu.com/de/tags/"
                 />
   </url>
   
