@@ -1,0 +1,11 @@
+.language-switcher {
+    display: flex;
+    justify-content: center; /* Align center or adjust as needed */
+    padding: 10px 0; /* Adjust padding as needed */
+}
+
+.language-switcher a {
+    margin: 0 15px; /* Space out the links */
+    text-decoration: none; /* Optional: removes underline */
+    /* Add more styles as needed (color, font-size, etc.) */
+}

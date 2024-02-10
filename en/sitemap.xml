@@ -1,205 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://lokadhatu.com/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://lokadhatu.com/en/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="中"
-                href="https://lokadhatu.com/%E4%B8%AD/about/"
+                hreflang="zh-tw"
+                href="https://lokadhatu.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
+                hreflang="de-de"
                 href="https://lokadhatu.com/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu.com/about/"
+                hreflang="en-us"
+                href="https://lokadhatu.com/en/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/posts/</loc>
+  </url><url>
+    <loc>https://lokadhatu.com/en/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="中"
-                href="https://lokadhatu.com/%E4%B8%AD/posts/"
+                hreflang="zh-tw"
+                href="https://lokadhatu.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
+                hreflang="de-de"
                 href="https://lokadhatu.com/de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu.com/posts/"
+                hreflang="en-us"
+                href="https://lokadhatu.com/en/posts/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/reading_notes/</loc>
+  </url><url>
+    <loc>https://lokadhatu.com/en/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="中"
-                href="https://lokadhatu.com/%E4%B8%AD/reading_notes/"
+                hreflang="zh-tw"
+                href="https://lokadhatu.com/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://lokadhatu.com/de/reading_notes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu.com/reading_notes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/travel/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="中"
-                href="https://lokadhatu.com/%E4%B8%AD/travel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://lokadhatu.com/de/travel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu.com/travel/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="中"
-                href="https://lokadhatu.com/%E4%B8%AD/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://lokadhatu.com/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu.com/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="中"
-                href="https://lokadhatu.com/%E4%B8%AD/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
+                hreflang="de-de"
                 href="https://lokadhatu.com/de/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu.com/"
+                hreflang="en-us"
+                href="https://lokadhatu.com/en/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/tags/benjamin_franklin/</loc>
+  </url><url>
+    <loc>https://lokadhatu.com/en/tags/benjamin-franklin/</loc>
     <lastmod>2015-07-12T16:01:30+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/tags/liberty/</loc>
+  </url><url>
+    <loc>https://lokadhatu.com/en/tags/liberty/</loc>
     <lastmod>2015-07-12T16:01:30+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/posts/2015-07-12_misinterpretation_of_frankflin/</loc>
+  </url><url>
+    <loc>https://lokadhatu.com/en/posts/essay_20150712_misinterpretation_of_frankflin/</loc>
     <lastmod>2015-07-12T16:01:30+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/tags/</loc>
+  </url><url>
+    <loc>https://lokadhatu.com/en/tags/</loc>
     <lastmod>2015-07-12T16:01:30+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="中"
-                href="https://lokadhatu.com/%E4%B8%AD/tags/"
+                hreflang="zh-tw"
+                href="https://lokadhatu.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
+                hreflang="de-de"
                 href="https://lokadhatu.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu.com/tags/"
+                hreflang="en-us"
+                href="https://lokadhatu.com/en/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/tags/usa/</loc>
+  </url><url>
+    <loc>https://lokadhatu.com/en/tags/usa/</loc>
     <lastmod>2015-07-12T16:01:30+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lokadhatu.com/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lokadhatu.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="中"
-                href="https://lokadhatu.com/%E4%B8%AD/categories/"
+                hreflang="zh-tw"
+                href="https://lokadhatu.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
+                hreflang="de-de"
                 href="https://lokadhatu.com/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://lokadhatu.com/categories/"
+                hreflang="en-us"
+                href="https://lokadhatu.com/en/categories/"
                 />
   </url>
-  
 </urlset>
