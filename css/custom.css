@@ -1,0 +1,18 @@
+.nav-link-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-link-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link-item-wrapper {
+    flex: 1;
+    text-align: center;
+}
+
+.nav-link-item {
+    display: inline-block;
+}

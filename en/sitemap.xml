@@ -37,26 +37,8 @@
                 href="https://lokadhatu.com/en/posts/"
                 />
   </url><url>
-    <loc>https://lokadhatu.com/en/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://lokadhatu.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://lokadhatu.com/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lokadhatu.com/en/"
-                />
-  </url><url>
     <loc>https://lokadhatu.com/en/categories/</loc>
-    <lastmod>2015-10-31T18:45:26+01:00</lastmod>
+    <lastmod>2024-09-21T18:50:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -73,20 +55,41 @@
                 href="https://lokadhatu.com/en/categories/"
                 />
   </url><url>
-    <loc>https://lokadhatu.com/en/tags/distribution-of-institutions/</loc>
-    <lastmod>2015-10-31T18:45:26+01:00</lastmod>
+    <loc>https://lokadhatu.com/en/tags/chain-of-thought/</loc>
+    <lastmod>2024-09-21T18:50:00+01:00</lastmod>
   </url><url>
-    <loc>https://lokadhatu.com/en/categories/essay/</loc>
-    <lastmod>2015-10-31T18:45:26+01:00</lastmod>
+    <loc>https://lokadhatu.com/en/posts/2024-09-21-chain-of-thought/</loc>
+    <lastmod>2024-09-21T18:50:00+01:00</lastmod>
   </url><url>
-    <loc>https://lokadhatu.com/en/tags/history/</loc>
-    <lastmod>2015-10-31T18:45:26+01:00</lastmod>
+    <loc>https://lokadhatu.com/en/categories/deep-learning-and-ai-systems/</loc>
+    <lastmod>2024-09-21T18:50:00+01:00</lastmod>
   </url><url>
-    <loc>https://lokadhatu.com/en/posts/essay_20151031_keju_in_anglo_american_countries/</loc>
-    <lastmod>2015-10-31T18:45:26+01:00</lastmod>
+    <loc>https://lokadhatu.com/en/tags/llm/</loc>
+    <lastmod>2024-09-21T18:50:00+01:00</lastmod>
+  </url><url>
+    <loc>https://lokadhatu.com/en/</loc>
+    <lastmod>2024-09-21T18:50:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://lokadhatu.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://lokadhatu.com/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lokadhatu.com/en/"
+                />
+  </url><url>
+    <loc>https://lokadhatu.com/en/tags/reasoning/</loc>
+    <lastmod>2024-09-21T18:50:00+01:00</lastmod>
   </url><url>
     <loc>https://lokadhatu.com/en/tags/</loc>
-    <lastmod>2015-10-31T18:45:26+01:00</lastmod>
+    <lastmod>2024-09-21T18:50:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -102,20 +105,5 @@
                 hreflang="en-us"
                 href="https://lokadhatu.com/en/tags/"
                 />
-  </url><url>
-    <loc>https://lokadhatu.com/en/tags/uk/</loc>
-    <lastmod>2015-10-31T18:45:26+01:00</lastmod>
-  </url><url>
-    <loc>https://lokadhatu.com/en/tags/usa/</loc>
-    <lastmod>2015-10-31T18:45:26+01:00</lastmod>
-  </url><url>
-    <loc>https://lokadhatu.com/en/tags/franklin-benjamin/</loc>
-    <lastmod>2015-07-12T16:01:30+01:00</lastmod>
-  </url><url>
-    <loc>https://lokadhatu.com/en/tags/liberty/</loc>
-    <lastmod>2015-07-12T16:01:30+01:00</lastmod>
-  </url><url>
-    <loc>https://lokadhatu.com/en/posts/essay_20150712_misinterpretation_of_frankflin/</loc>
-    <lastmod>2015-07-12T16:01:30+01:00</lastmod>
   </url>
 </urlset>

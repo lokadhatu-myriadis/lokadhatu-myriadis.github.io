@@ -7,48 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2024 Lokadhatu Myriadis</copyright>
-    <lastBuildDate>Sat, 31 Oct 2015 18:45:26 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 18:50:00 +0100</lastBuildDate>
     <atom:link href="https://lokadhatu.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>distribution of institutions</title>
-      <link>https://lokadhatu.com/en/tags/distribution-of-institutions/</link>
-      <pubDate>Sat, 31 Oct 2015 18:45:26 +0100</pubDate>
-      <guid>https://lokadhatu.com/en/tags/distribution-of-institutions/</guid>
+      <title>Chain-of-Thought</title>
+      <link>https://lokadhatu.com/en/tags/chain-of-thought/</link>
+      <pubDate>Sat, 21 Sep 2024 18:50:00 +0100</pubDate>
+      <guid>https://lokadhatu.com/en/tags/chain-of-thought/</guid>
       <description></description>
     </item>
     <item>
-      <title>history</title>
-      <link>https://lokadhatu.com/en/tags/history/</link>
-      <pubDate>Sat, 31 Oct 2015 18:45:26 +0100</pubDate>
-      <guid>https://lokadhatu.com/en/tags/history/</guid>
+      <title>LLM</title>
+      <link>https://lokadhatu.com/en/tags/llm/</link>
+      <pubDate>Sat, 21 Sep 2024 18:50:00 +0100</pubDate>
+      <guid>https://lokadhatu.com/en/tags/llm/</guid>
       <description></description>
     </item>
     <item>
-      <title>UK</title>
-      <link>https://lokadhatu.com/en/tags/uk/</link>
-      <pubDate>Sat, 31 Oct 2015 18:45:26 +0100</pubDate>
-      <guid>https://lokadhatu.com/en/tags/uk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>USA</title>
-      <link>https://lokadhatu.com/en/tags/usa/</link>
-      <pubDate>Sat, 31 Oct 2015 18:45:26 +0100</pubDate>
-      <guid>https://lokadhatu.com/en/tags/usa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Franklin, Benjamin</title>
-      <link>https://lokadhatu.com/en/tags/franklin-benjamin/</link>
-      <pubDate>Sun, 12 Jul 2015 16:01:30 +0100</pubDate>
-      <guid>https://lokadhatu.com/en/tags/franklin-benjamin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>liberty</title>
-      <link>https://lokadhatu.com/en/tags/liberty/</link>
-      <pubDate>Sun, 12 Jul 2015 16:01:30 +0100</pubDate>
-      <guid>https://lokadhatu.com/en/tags/liberty/</guid>
+      <title>Reasoning</title>
+      <link>https://lokadhatu.com/en/tags/reasoning/</link>
+      <pubDate>Sat, 21 Sep 2024 18:50:00 +0100</pubDate>
+      <guid>https://lokadhatu.com/en/tags/reasoning/</guid>
       <description></description>
     </item>
   </channel>

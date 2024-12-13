@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chain-of-Thought on Lokadhatu Myriadis</title>
+    <link>https://lokadhatu.com/en/tags/chain-of-thought/</link>
+    <description>Recent content in Chain-of-Thought on Lokadhatu Myriadis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2015-2024 Lokadhatu Myriadis</copyright>
+    <lastBuildDate>Sat, 21 Sep 2024 18:50:00 +0100</lastBuildDate>
+    <atom:link href="https://lokadhatu.com/en/tags/chain-of-thought/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chain-of-Thought</title>
+      <link>https://lokadhatu.com/en/posts/2024-09-21-chain-of-thought/</link>
+      <pubDate>Sat, 21 Sep 2024 18:50:00 +0100</pubDate>
+      <guid>https://lokadhatu.com/en/posts/2024-09-21-chain-of-thought/</guid>
+      <description>Reasoning has long been regarded as a cornerstone of intelligence, traditionally dominated by symbolic approaches (Russell &amp;amp; Norvig, 2016). The recent launch of o1 series by OpenAI marked the productionalization of large language model (LLM)-based reasoning systems. At the core of these systems lies a key yet simple technique known as chain of thought (CoT). This blog explores the concept of chain-of-thought reasoning, tracing its origins, examining its variants, and uncovering its limitations.</description>
+    </item>
+  </channel>
+</rss>
